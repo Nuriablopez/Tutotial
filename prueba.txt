@@ -1,0 +1,6 @@
+public Prueba{
+
+}
+public static void main(string args[]){
+
+}
