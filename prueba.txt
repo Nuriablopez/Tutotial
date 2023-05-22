@@ -1,6 +1,10 @@
 public Prueba{
 
+public Prueba(){
+}
+
 }
 public static void main(string args[]){
+         Prueba prueba = new Prueba();
 
 }
